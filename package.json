@@ -1,0 +1,23 @@
+{
+  "name": "ScreenShotTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "screenshot.js",
+  "dependencies": {
+    "pageres": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielrasmuson/ScreenShotTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielrasmuson/ScreenShotTest/issues"
+  },
+  "homepage": "https://github.com/danielrasmuson/ScreenShotTest"
+}
